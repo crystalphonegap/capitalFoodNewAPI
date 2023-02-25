@@ -1,0 +1,255 @@
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.AssemblyReference.cache
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.AssemblyInfoInputs.cache
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.AssemblyInfo.cs
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.CoreCompileInputs.cache
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.MvcApplicationPartsAssemblyInfo.cache
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorAssemblyInfo.cache
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorAssemblyInfo.cs
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.exe
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.deps.json
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.runtimeconfig.json
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.runtimeconfig.dev.json
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.pdb
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.pdb
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\CertificateManager.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\staticwebassets\ICICI_BANK_INTERFACE.StaticWebAssets.Manifest.cache
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\staticwebassets\ICICI_BANK_INTERFACE.StaticWebAssets.xml
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\scopedcss\bundle\ICICI_BANK_INTERFACE.styles.css
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.TagHelpers.input.cache
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.TagHelpers.output.cache
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorCoreGenerate.cache
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorTargetAssemblyInfo.cache
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorTargetAssemblyInfo.cs
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.pdb
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.CopyComplete
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.pdb
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.genruntimeconfig.cache
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bank Integration\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.AssemblyReference.cache
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.GeneratedMSBuildEditorConfig.editorconfig
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.AssemblyInfoInputs.cache
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.AssemblyInfo.cs
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.CoreCompileInputs.cache
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.MvcApplicationPartsAssemblyInfo.cache
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorAssemblyInfo.cache
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorAssemblyInfo.cs
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.pdb
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\appsettings.json
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.StaticWebAssets.xml
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.exe
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.deps.json
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.runtimeconfig.json
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.runtimeconfig.dev.json
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.pdb
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.pdb
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\CertificateManager.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\staticwebassets\ICICI_BANK_INTERFACE.StaticWebAssets.Manifest.cache
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\scopedcss\bundle\ICICI_BANK_INTERFACE.styles.css
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.TagHelpers.input.cache
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.TagHelpers.output.cache
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorCoreGenerate.cache
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorTargetAssemblyInfo.cache
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorTargetAssemblyInfo.cs
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.pdb
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.CopyComplete
+D:\AhmedProject\Barcode_Scanner\Angular\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.genruntimeconfig.cache
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\appsettings.json
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.StaticWebAssets.xml
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.exe
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.deps.json
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.runtimeconfig.json
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.runtimeconfig.dev.json
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.pdb
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.pdb
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\CertificateManager.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.AssemblyReference.cache
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.GeneratedMSBuildEditorConfig.editorconfig
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.AssemblyInfoInputs.cache
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.AssemblyInfo.cs
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.CoreCompileInputs.cache
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.MvcApplicationPartsAssemblyInfo.cache
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorAssemblyInfo.cache
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorAssemblyInfo.cs
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\staticwebassets\ICICI_BANK_INTERFACE.StaticWebAssets.Manifest.cache
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\scopedcss\bundle\ICICI_BANK_INTERFACE.styles.css
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.TagHelpers.input.cache
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.TagHelpers.output.cache
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorCoreGenerate.cache
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorTargetAssemblyInfo.cache
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorTargetAssemblyInfo.cs
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.pdb
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.CopyComplete
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.dll
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.pdb
+D:\AhmedProject\Barcode_Scanner\ICICI_BANK_INTERFACE\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.genruntimeconfig.cache
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\appsettings.json
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.exe
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.deps.json
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.runtimeconfig.json
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.runtimeconfig.dev.json
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.pdb
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.pdb
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\CertificateManager.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.GeneratedMSBuildEditorConfig.editorconfig
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.AssemblyInfoInputs.cache
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.AssemblyInfo.cs
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.CoreCompileInputs.cache
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.MvcApplicationPartsAssemblyInfo.cache
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorAssemblyInfo.cache
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorAssemblyInfo.cs
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\staticwebassets\ICICI_BANK_INTERFACE.StaticWebAssets.Manifest.cache
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\staticwebassets\ICICI_BANK_INTERFACE.StaticWebAssets.xml
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\scopedcss\bundle\ICICI_BANK_INTERFACE.styles.css
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.TagHelpers.input.cache
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.TagHelpers.output.cache
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorCoreGenerate.cache
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorTargetAssemblyInfo.cache
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorTargetAssemblyInfo.cs
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.pdb
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.CopyComplete
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.dll
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.pdb
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.genruntimeconfig.cache
+D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.AssemblyReference.cache
