@@ -253,3 +253,196 @@ D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debu
 D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.pdb
 D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.genruntimeconfig.cache
 D:\AhmedProject\Barcode_Scanner\Angular\Barcoe API\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.AssemblyReference.cache
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\appsettings.json
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.exe
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.deps.json
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.runtimeconfig.json
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.runtimeconfig.dev.json
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.pdb
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.pdb
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\CertificateManager.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Dapper.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.GeneratedMSBuildEditorConfig.editorconfig
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.AssemblyInfoInputs.cache
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.AssemblyInfo.cs
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.CoreCompileInputs.cache
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.MvcApplicationPartsAssemblyInfo.cache
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorAssemblyInfo.cache
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorAssemblyInfo.cs
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\staticwebassets\ICICI_BANK_INTERFACE.StaticWebAssets.Manifest.cache
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\staticwebassets\ICICI_BANK_INTERFACE.StaticWebAssets.xml
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\scopedcss\bundle\ICICI_BANK_INTERFACE.styles.css
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.TagHelpers.input.cache
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.TagHelpers.output.cache
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorCoreGenerate.cache
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorTargetAssemblyInfo.cache
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorTargetAssemblyInfo.cs
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.pdb
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.CopyComplete
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.dll
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.pdb
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.genruntimeconfig.cache
+F:\linali\Capital Food Barcode\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.AssemblyReference.cache
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\appsettings.json
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.exe
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.deps.json
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.runtimeconfig.json
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.runtimeconfig.dev.json
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.pdb
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.pdb
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\CertificateManager.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Dapper.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.AssemblyReference.cache
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.GeneratedMSBuildEditorConfig.editorconfig
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.AssemblyInfoInputs.cache
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.AssemblyInfo.cs
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.CoreCompileInputs.cache
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.MvcApplicationPartsAssemblyInfo.cache
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorAssemblyInfo.cache
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorAssemblyInfo.cs
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\staticwebassets\ICICI_BANK_INTERFACE.StaticWebAssets.Manifest.cache
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\staticwebassets\ICICI_BANK_INTERFACE.StaticWebAssets.xml
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\scopedcss\bundle\ICICI_BANK_INTERFACE.styles.css
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.TagHelpers.input.cache
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.TagHelpers.output.cache
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorCoreGenerate.cache
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorTargetAssemblyInfo.cache
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorTargetAssemblyInfo.cs
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.pdb
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.CopyComplete
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.dll
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.pdb
+F:\linali\CAPITAL FOOD BARCODE NEW 06-05-2023\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.genruntimeconfig.cache
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.exe
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.deps.json
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.runtimeconfig.json
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.runtimeconfig.dev.json
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.pdb
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.pdb
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\CertificateManager.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.AssemblyReference.cache
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.AssemblyInfoInputs.cache
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.AssemblyInfo.cs
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.CoreCompileInputs.cache
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.MvcApplicationPartsAssemblyInfo.cache
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorAssemblyInfo.cache
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorAssemblyInfo.cs
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\staticwebassets\ICICI_BANK_INTERFACE.StaticWebAssets.Manifest.cache
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\staticwebassets\ICICI_BANK_INTERFACE.StaticWebAssets.xml
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\scopedcss\bundle\ICICI_BANK_INTERFACE.styles.css
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.TagHelpers.input.cache
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.TagHelpers.output.cache
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorCoreGenerate.cache
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorTargetAssemblyInfo.cache
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.RazorTargetAssemblyInfo.cs
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.Views.pdb
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.csproj.CopyComplete
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.pdb
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\obj\Debug\netcoreapp3.1\ICICI_BANK_INTERFACE.genruntimeconfig.cache
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+D:\Rashid\Barcode Capital New\CAPITAL FOOD BARCODE API\CapitalFoodBarcodeAPI\ICICI_BANK_INTERFACE\bin\Debug\netcoreapp3.1\ExcelDataReader.DataSet.dll

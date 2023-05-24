@@ -16,6 +16,8 @@ using System.Threading.Tasks;
 using ICICI_BANK_INTERFACE.Interface;
 using ICICI_BANK_INTERFACE.Services;
 using Microsoft.AspNetCore.Authentication;
+using Microsoft.Extensions.FileProviders;
+using System.IO;
 
 namespace ICICI_BANK_INTERFACE
 {
@@ -64,6 +66,25 @@ namespace ICICI_BANK_INTERFACE
             //    };
             //});
 
+            //For Authorization
+            services.AddAuthorization(options => {
+                options.AddPolicy("QRCodePolicy", policy => {
+                    policy.RequireRole("BusinessAdmin", "Supervisor", "SuperUser", "User");
+                });
+
+                options.AddPolicy("BusinessAdminOnly", policy => {
+                    policy.RequireRole("BusinessAdmin");
+                });
+
+                options.AddPolicy("SupervisorOnly", policy => {
+                    policy.RequireRole("Supervisor");
+                });
+
+                options.AddPolicy("UserOnly", policy => {
+                    policy.RequireRole("User");
+                });
+            });
+
             services.AddControllers();
     //        services.AddAuthentication("BasicAuthentication")
     //.AddScheme<AuthenticationSchemeOptions, BasicAuthenticationHandler>("BasicAuthentication", null);
@@ -71,6 +92,8 @@ namespace ICICI_BANK_INTERFACE
             //options.UseSqlServer(Configuration.GetConnectionString("DatabaseContext")));
 
             //For all to Access WebApi
+
+            //For Authrization
 
             //Commented By SUman on 20-11-2020
             services.AddCors(options =>
@@ -91,8 +114,12 @@ namespace ICICI_BANK_INTERFACE
             services.AddScoped<IHomeService, HomeService>();
             services.AddScoped<IHelperClass, HelperClass>();
             services.AddScoped<IIQCService, IQCService>();
+            services.AddScoped<IFileUpload, FileUploadService>();
+            services.AddScoped<IAdminUser, AdminUserServices>();
+            services.AddScoped<IPartyMaster, PartyMasterService>();
             //services.AddScoped<IUserMasterService, UserMasterService>();
         }
+
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -109,6 +136,13 @@ namespace ICICI_BANK_INTERFACE
             }
 
             app.UseHttpsRedirection();
+            app.UseDefaultFiles();
+
+            //app.UseStaticFiles();
+            app.UseStaticFiles(new StaticFileOptions()
+            {
+                FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot"))
+            });
             //app.UseStaticFiles();
 
             app.UseRouting();

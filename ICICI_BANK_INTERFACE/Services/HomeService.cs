@@ -18,7 +18,7 @@ namespace ICICI_BANK_INTERFACE.Services
         private static IWebHostEnvironment _hostEnvironment;
 
         private readonly IConfiguration _config;
-        string DbName = "CMS1";
+        string DbName = "CF_BARCODE";
         public HomeService( IWebHostEnvironment environment, IConfiguration config)
          {
             _config = config;
@@ -29,29 +29,51 @@ namespace ICICI_BANK_INTERFACE.Services
 
             DeleteDuplicateBarcode();
             DataTable dt = new DataTable();
-            using (SqlConnection sqlConn = new SqlConnection(_config.GetConnectionString("DatabaseContext")))
+            using (SqlConnection sqlConn = new SqlConnection(_config.GetConnectionString("DatabaseContext2")))
             {
-                String StrQuery = "with CTE as (select Distinct dln1.itemcode as ItemCode, \n" +
-                    " replace(dln1.dscription, ',', ' - ') as Description, sum(dln1.quantity) as Qty ,0 BalQty\n" +
-                    " from odln inner join dln1 on odln.docentry = dln1.docentry\n" +
-                    //" inner join[{0}].[dbo].[BarCodeUserMaster] BCUM on BCUM.Warehouse COLLATE DATABASE_DEFAULT =\n" +
-                    //"  DLN1.WHSCODE  COLLATE DATABASE_DEFAULT or DLN1.WHSCODE COLLATE DATABASE_DEFAULT = BCUM.Location \n" +
-                    //"  COLLATE DATABASE_DEFAULT " +
-                    " inner join nnm1 on odln.series = nnm1.series \n" +
-                    " WHERE  nnm1.seriesname+LTRIM(STR(odln.docnum)) COLLATE DATABASE_DEFAULT = '{1}' and\n" +
-                    "  odln.cardname COLLATE DATABASE_DEFAULT = '{2}' \n" +
-                    "   group by dln1.itemcode,dln1.dscription  \n" +
-                    " UNION \n" +
-                    " select[Item Code] COLLATE DATABASE_DEFAULT ItemCode, Description COLLATE DATABASE_DEFAULT , \n" +
-                    "  0 Qty, count(*) AS BalQty  From[{0}].[dbo].[BarCodes]\n" +
-                    " WHERE  ( [Dc Series]+'/'+[Dc Number]  COLLATE DATABASE_DEFAULT  ='{1}' or  [Dc Series] +[Dc Number]  COLLATE DATABASE_DEFAULT  ='{1}')  \n" +
-                    "   and Customer COLLATE DATABASE_DEFAULT = '{2}'\n" +
-                    " Group by[Item Code], Description )\n" +
-                    //" select ItemCode, Description,  case when  SUM (Qty)/2 =0.5 then 1 else SUM (Qty)/2 end  as inwoard,SUM(BalQty) as outwpard, " +
-                    " select ItemCode, Description,  SUM (Qty)  as inwoard,SUM(BalQty) as outwpard, " +
-                    "    SUM (Qty) - SUM(BalQty)    BALQTY  \n " +
-                    //"  case when  SUM (Qty)/2 =0.5 then 1 - SUM(BalQty) else SUM (Qty)/2  - SUM(BalQty) end      as BALQTY  \n " +
-                    " from CTE group by ItemCode,Description  order by ItemCode \n";
+                //String StrQuery = "with CTE as (select Distinct dln1.itemcode as ItemCode, \n" +
+                //    " replace(dln1.dscription, ',', ' - ') as Description, sum(dln1.quantity) as Qty ,0 BalQty\n" +
+                //    " from odln inner join dln1 on odln.docentry = dln1.docentry\n" +
+                //    //" inner join[{0}].[dbo].[BarCodeUserMaster] BCUM on BCUM.Warehouse COLLATE DATABASE_DEFAULT =\n" +
+                //    //"  DLN1.WHSCODE  COLLATE DATABASE_DEFAULT or DLN1.WHSCODE COLLATE DATABASE_DEFAULT = BCUM.Location \n" +
+                //    //"  COLLATE DATABASE_DEFAULT " +
+                //    " inner join nnm1 on odln.series = nnm1.series \n" +
+                //    " WHERE  nnm1.seriesname+LTRIM(STR(odln.docnum)) COLLATE DATABASE_DEFAULT = '{1}' and\n" +
+                //    "  odln.cardname COLLATE DATABASE_DEFAULT = '{2}' \n" +
+                //    "   group by dln1.itemcode,dln1.dscription  \n" +
+                //    " UNION \n" +
+                //    " select[Item Code] COLLATE DATABASE_DEFAULT ItemCode, Description COLLATE DATABASE_DEFAULT , \n" +
+                //    "  0 Qty, count(*) AS BalQty  From[{0}].[dbo].[BarCodes]\n" +
+                //    " WHERE  ( [Dc Series]+'/'+[Dc Number]  COLLATE DATABASE_DEFAULT  ='{1}' or  [Dc Series] +[Dc Number]  COLLATE DATABASE_DEFAULT  ='{1}')  \n" +
+                //    "   and Customer COLLATE DATABASE_DEFAULT = '{2}'\n" +
+                //    " Group by[Item Code], Description )\n" +
+                //    //" select ItemCode, Description,  case when  SUM (Qty)/2 =0.5 then 1 else SUM (Qty)/2 end  as inwoard,SUM(BalQty) as outwpard, " +
+                //    " select ItemCode, Description,  SUM (Qty)  as inwoard,SUM(BalQty) as outwpard, " +
+                //    "    SUM (Qty) - SUM(BalQty)    BALQTY  \n " +
+                //    //"  case when  SUM (Qty)/2 =0.5 then 1 - SUM(BalQty) else SUM (Qty)/2  - SUM(BalQty) end      as BALQTY  \n " +
+                //    " from CTE group by ItemCode,Description  order by ItemCode \n";
+
+
+
+
+                String StrQuery = "with CTE as (select Distinct ItemCode, Description,sum(Quantity) as Qty ,0 BalQty \n" +
+                   "From BarCodeHDR \n" +
+                   //" inner join[{0}].[dbo].[BarCodeUserMaster] BCUM on BCUM.Warehouse COLLATE DATABASE_DEFAULT =\n" +
+                   //"  DLN1.WHSCODE  COLLATE DATABASE_DEFAULT or DLN1.WHSCODE COLLATE DATABASE_DEFAULT = BCUM.Location \n" +
+                   //"  COLLATE DATABASE_DEFAULT " +
+                   "Where [Card Name] ='{2}'"+
+                   "   group by ItemCode,Description  \n" +
+                   " UNION \n" +
+                   " select[Item Code] COLLATE DATABASE_DEFAULT [Item Code], Description COLLATE DATABASE_DEFAULT , \n" +
+                   "  0 Qty, count(*) AS BalQty  From[{0}].[dbo].[BarCodes]\n" +
+                   " WHERE  ( [Dc Series]+'/'+[Dc Number]  COLLATE DATABASE_DEFAULT  ='{1}' or  [Dc Series] +[Dc Number]  COLLATE DATABASE_DEFAULT  ='{1}')  \n" +
+                   "   and Customer COLLATE DATABASE_DEFAULT = '{2}'\n" +
+                   " Group by[Item Code], Description )\n" +
+                   //" select ItemCode, Description,  case when  SUM (Qty)/2 =0.5 then 1 else SUM (Qty)/2 end  as inwoard,SUM(BalQty) as outwpard, " +
+                   " select ItemCode, Description,  SUM (Qty)  as inwoard,SUM(BalQty) as outwpard, " +
+                   "    SUM (Qty) - SUM(BalQty)    BALQTY  \n " +
+                   //"  case when  SUM (Qty)/2 =0.5 then 1 - SUM(BalQty) else SUM (Qty)/2  - SUM(BalQty) end      as BALQTY  \n " +
+                   " from CTE group by ItemCode,Description  order by ItemCode \n";
 
 
                 StrQuery = string.Format(StrQuery, DbName, model.DC, model.PartyName);
@@ -70,43 +92,49 @@ namespace ICICI_BANK_INTERFACE.Services
 
         public DataTable GetPartyList(DateFilterModel model)
         {
-
-            DeleteDuplicateBarcode();
             DateTime fdate = DateTime.ParseExact(model.FromDate, "dd-MM-yyyy", null);
             DateTime tdate = DateTime.ParseExact(model.ToDate, "dd-MM-yyyy", null);
             DataTable dt = new DataTable();
 
+            DeleteDuplicateBarcode();
             if (model.Keyword == "NoSearch" || string.IsNullOrEmpty(model.Keyword))
             {
-                model.Keyword = "" ;
+                model.Keyword = "";
             }
-            using (SqlConnection sqlConn = new SqlConnection(_config.GetConnectionString("DatabaseContext")))
+            using (SqlConnection sqlConn = new SqlConnection(_config.GetConnectionString("DatabaseContext2")))
             {
-                using (SqlCommand sqlCmd = new SqlCommand("GetBarcodePartyListDetails", sqlConn))
+                using (SqlCommand sqlCmd = new SqlCommand("GetBarcodePartyListDetails1", sqlConn))
                 {
                     sqlCmd.CommandType = CommandType.StoredProcedure;
-                    sqlCmd.Parameters.AddWithValue("@FromDate",  Convert.ToDateTime(fdate.ToString("yyyy-MM-dd")));
+                    sqlCmd.Parameters.AddWithValue("@FromDate", Convert.ToDateTime(fdate.ToString("yyyy-MM-dd")));
                     sqlCmd.Parameters.AddWithValue("@ToDate", Convert.ToDateTime(tdate.ToString("yyyy-MM-dd")));
                     sqlCmd.Parameters.AddWithValue("@CardName", model.Keyword);
-                    sqlCmd.Parameters.AddWithValue("@UserCode", model.UserCode);
+                    //sqlCmd.Parameters.AddWithValue("@UserCode", model.UserCode);
                     using (SqlDataAdapter sqlAdapter = new SqlDataAdapter(sqlCmd))
                     {
                         sqlAdapter.Fill(dt);
                     }
                 }
             }
-            return  dt ;
+
+            return dt ;
         }
 
         public DataTable GetQrCodeList(ItemListFilter model)
         {
-            DataTable dt = new DataTable();
-            using (SqlConnection sqlConn = new SqlConnection(_config.GetConnectionString("DatabaseContext")))
+            DataTable dt = new DataTable(); 
+            //using (SqlConnection sqlConn = new SqlConnection(_config.GetConnectionString("DatabaseContext")))
+            using (SqlConnection sqlConn = new SqlConnection(_config.GetConnectionString("DatabaseContext2")))
             {
-                String StrQuery = "SELECT  [SerialId] ,[Barcode] FROM[{0}].[dbo].[BarCodes]" +
-                    " where  ([Dc Series] + '/' +[Dc Number] = '{1}' or [Dc Series]  +[Dc Number] = '{1}') and [Customer] = '{2}' and[Item Code] = '{3}'" +
+                //String StrQuery = "SELECT  [SerialId] ,[Barcode] FROM[{0}].[dbo].[BarCodes]" +
+                //    " where  ([Dc Series] + '/' +[Dc Number] = '{1}' or [Dc Series]  +[Dc Number] = '{1}') and [Customer] = '{2}' and[Item Code] = '{3}'" +
+                //    " order by SerialId";
+
+                String StrQuery = "SELECT  [Box Number]+' || '+[Batch]+ ' || ' +[Mfg Date]+ ' || ' + [Use By Date] as 'NEWNAME', [SerialId] ,[SKU Code] ,[Batch] ,[Box Number] FROM [{0}].[dbo].[BarCodes]" +
+                    " where  [Customer] = '{1}' and [Item Code] = '{2}'" +
                     " order by SerialId";
-                StrQuery = string.Format(StrQuery, DbName, model.DC, model.PartyName, model.ItemCode);
+
+                StrQuery = string.Format(StrQuery, DbName, /*model.DC,*/ model.PartyName.Trim(), model.ItemCode);
 
                 using (SqlCommand sqlCmd = new SqlCommand(StrQuery, sqlConn))
                 {
@@ -123,7 +151,7 @@ namespace ICICI_BANK_INTERFACE.Services
         public DataTable Login(UserMasterModel userMaster)
         {
         DataTable dt = new DataTable();
-            using (SqlConnection sqlConn = new SqlConnection(_config.GetConnectionString("DatabaseContext3")))
+            using (SqlConnection sqlConn = new SqlConnection(_config.GetConnectionString("DatabaseContext2"/*"DatabaseContext3"*/)))
             {
                 String StrQuery = "SELECT TOP 1 [ID] ,[UserCode] ,[UserName] ,[Location] ,[Warehouse] ,[UserType] " +
                     " FROM [{0}].[dbo].[BarCodeUserMaster] where [UserCode] = '{1}' and [Password] ='{2}'";
@@ -139,6 +167,76 @@ namespace ICICI_BANK_INTERFACE.Services
                 }
             }
             return dt;
+        }
+
+        public string Register(RegisterUserModel registerUser)
+        {
+            string Result = "";
+
+            using (SqlConnection sqlConn = new SqlConnection(_config.GetConnectionString("DatabaseContext2")))
+            {
+                sqlConn.Open();
+
+                using (SqlCommand sqlCmd = new SqlCommand("USP_RegisterUser", sqlConn))
+                {
+                    sqlCmd.CommandType = CommandType.StoredProcedure;
+                    sqlCmd.Parameters.AddWithValue("@UserCode", registerUser.UserCode);
+                    sqlCmd.Parameters.AddWithValue("@UserName", registerUser.UserName);
+                    sqlCmd.Parameters.AddWithValue("@Location", registerUser.Location);
+                    sqlCmd.Parameters.AddWithValue("@Warehouse", registerUser.Warehouse);
+                    sqlCmd.Parameters.AddWithValue("@UserPassword", registerUser.Password);
+                    sqlCmd.Parameters.AddWithValue("@UserType", registerUser.UserType);
+                    sqlCmd.Parameters.AddWithValue("@MobileNo", registerUser.MobileNumber);
+                    sqlCmd.Parameters.AddWithValue("@EmailID", registerUser.Email);
+                    sqlCmd.Parameters.AddWithValue("@CreatedBy", registerUser.CreatedBy);
+                    sqlCmd.Parameters.AddWithValue("@CreatedDate", DateTime.Now.ToString("yyyy-MM-dd"));
+
+                    Result = sqlCmd.ExecuteScalar().ToString();
+                    Result = Result + registerUser.UserName.Trim() + " - " + registerUser.UserCode.Trim() + " User Added Successfully";
+                }
+               
+                DataTable dt = new DataTable();
+                //For getting id from BarCodeUserMaster
+                String StrQuery = "SELECT Id FROM [{0}][dbo].[BarCodeUserMaster] Where UserCode = {1}";
+                StrQuery = string.Format(StrQuery, DbName, registerUser.UserCode.Trim());
+                using (SqlCommand sqlCmd = new SqlCommand(StrQuery, sqlConn))
+                {
+                    sqlCmd.CommandType = CommandType.Text;
+                    using (SqlDataAdapter sqlAdapter = new SqlDataAdapter(sqlCmd))
+                    {
+                        sqlAdapter.Fill(dt);
+                    }
+                }
+                var userId = dt.Rows[0]["Id"].ToString();
+                //Get Plant code from plantMaster
+                foreach (var id in registerUser.Ids)
+                {
+                    StrQuery = "SELECT PlantCode FROM [{0}][dbo].[PlantMaster] Where Id = {1}";
+                    StrQuery = string.Format(StrQuery, DbName, id);
+                    using (SqlCommand sqlCmd = new SqlCommand(StrQuery, sqlConn))
+                    {
+                        sqlCmd.CommandType = CommandType.Text;
+                        using (SqlDataAdapter sqlAdapter = new SqlDataAdapter(sqlCmd))
+                        {
+                            sqlAdapter.Fill(dt);
+                        }
+                    }
+                }
+                    
+                for (int j = 1; j < dt.Rows.Count; j++)
+                {
+                    StrQuery = "INSERT INTO [{0}][dbo].[UserPlantMapping] Values('{1}', '{2}')";
+                    StrQuery = string.Format(StrQuery, DbName, userId, Convert.ToInt32(dt.Rows[j]["Id"].ToString()));
+                    using (SqlCommand sqlCmd = new SqlCommand(StrQuery, sqlConn))
+                    {
+                        sqlCmd.CommandType = CommandType.Text;
+                        sqlCmd.ExecuteNonQuery();
+                    }
+                }
+                
+            }
+
+            return Result;
         }
 
         public ResponseModel InsertBarCode(InsertBarcodeDetailsModel Model)
@@ -230,6 +328,9 @@ namespace ICICI_BANK_INTERFACE.Services
         {
             ResponseModel responseModel = new ResponseModel();
             string Result = "";
+            var BarCodeSeries = Model.Barcode.Split(',');
+            //string Mfgdate = BarCodeSeries[2].Trim().Substring(6) + "/" + BarCodeSeries[2].Trim().Substring(4, 2) + "/" + BarCodeSeries[2].Trim().Substring(0, 4);
+            //string Expdate = BarCodeSeries[3].Trim().Substring(6) + "/" + BarCodeSeries[3].Trim().Substring(4, 2) + "/" + BarCodeSeries[3].Trim().Substring(0, 4);
             var DocNo = Model.SeriesName.Split('/');
             if (!string.IsNullOrEmpty(Model.Barcode))
             {
@@ -241,24 +342,38 @@ namespace ICICI_BANK_INTERFACE.Services
                 else
                 {
 
-                    using (SqlConnection sqlConn = new SqlConnection(_config.GetConnectionString("DatabaseContext")))
+                    using (SqlConnection sqlConn = new SqlConnection(_config.GetConnectionString("DatabaseContext2")))
                     {
                         DataTable dt = new DataTable();
-                        string StrQuery = "with CTE as (" +
-                            " select Distinct dln1.itemcode as ItemCode, \n" +
-                           " replace(dln1.dscription, ',', ' - ') as Description,sum(dln1.quantity) as Qty ,0 BalQty\n" +
-                           " from odln inner join dln1 on odln.docentry = dln1.docentry\n" +
-                           " inner join[{0}].[dbo].[BarCodeUserMaster] BCUM on BCUM.Warehouse COLLATE DATABASE_DEFAULT =\n" +
-                           " DLN1.WHSCODE  COLLATE DATABASE_DEFAULT or DLN1.WHSCODE COLLATE DATABASE_DEFAULT = BCUM.Location\n" +
-                           " COLLATE DATABASE_DEFAULT\n" +
-                           " inner join nnm1 on odln.series = nnm1.series\n" +
-                           " INNER JOIN OITM ON OITM.ItemCode = dln1.itemcode\n" +
-                           " WHERE nnm1.seriesname + LTRIM(STR(odln.docnum)) COLLATE DATABASE_DEFAULT = '{1}' and\n" +
-                           " odln.cardname COLLATE DATABASE_DEFAULT = '{2}'  AND OITM.DocEntry ={3}\n" +
-                           " group by  dln1.itemcode ,dln1.dscription ) \n" +
-                           " select ItemCode, Description, sum(Qty/3) as QTY, BalQty from CTE group by ItemCode,Description,BalQty \n";
+                        //string StrQuery = "with CTE as (" +
+                        //    " select Distinct dln1.itemcode as ItemCode, \n" +
+                        //   " replace(dln1.dscription, ',', ' - ') as Description,sum(dln1.quantity) as Qty ,0 BalQty\n" +
+                        //   " from odln inner join dln1 on odln.docentry = dln1.docentry\n" +
+                        //   " inner join[{0}].[dbo].[BarCodeUserMaster] BCUM on BCUM.Warehouse COLLATE DATABASE_DEFAULT =\n" +
+                        //   " DLN1.WHSCODE  COLLATE DATABASE_DEFAULT or DLN1.WHSCODE COLLATE DATABASE_DEFAULT = BCUM.Location\n" +
+                        //   " COLLATE DATABASE_DEFAULT\n" +
+                        //   " inner join nnm1 on odln.series = nnm1.series\n" +
+                        //   " INNER JOIN OITM ON OITM.ItemCode = dln1.itemcode\n" +
+                        //   " WHERE nnm1.seriesname + LTRIM(STR(odln.docnum)) COLLATE DATABASE_DEFAULT = '{1}' and\n" +
+                        //   " odln.cardname COLLATE DATABASE_DEFAULT = '{2}'  AND OITM.DocEntry ={3}\n" +
+                        //   " group by  dln1.itemcode ,dln1.dscription ) \n" +
+                        //   " select ItemCode, Description, sum(Qty/3) as QTY, BalQty from CTE group by ItemCode,Description,BalQty \n";
+                        //string StrQuery = "select ItemCode ,replace(description, ',', ' - ') as description,Sum(Quantity) as QTY,0 as BalQty from BarCodeHDR " +
+                        //                          "WHERE /*[Doc Series] + LTRIM(STR([Doc Num])) COLLATE DATABASE_DEFAULT ='{1}' and*/ [Card Name]='{2}' and [Sku Code] = '{3}' group by ItemCode,Quantity,Description";
 
-                        StrQuery = string.Format(StrQuery, DbName, Model.SeriesName, Model.CardName, Model.Barcode.Substring(0, 5));
+
+
+
+
+                        string StrQuery = "select ItemCode ,replace(description, ',', ' - ') as description,Sum(Quantity) as QTY,0 as BalQty from BarCodeHDR " +
+                                                  "WHERE [Card Name]='{0}' and [Sku Code] = '{1}'  group by ItemCode,Quantity,Description";
+
+
+
+                        //StrQuery = string.Format(StrQuery,/* DbName, *//*Model.SeriesName,*/ Model.CardName, 
+                        //    /*Model.Barcode.Substring(0, 5)*/BarCodeSeries[0].Trim());
+
+                        StrQuery = string.Format(StrQuery, Model.CardName,BarCodeSeries[0].Trim());
                         sqlConn.Open();
 
 
@@ -320,25 +435,31 @@ namespace ICICI_BANK_INTERFACE.Services
 
                         //}
                         decimal s = Convert.ToDecimal(Model.QTY);
-                        SqlCommand cmd1 = new SqlCommand("[CMS1].[dbo].[PRC_SCAN_BARCODE_CHECK]", sqlConn);
+                        SqlCommand cmd1 = new SqlCommand("[CF_BARCODE].[dbo].[PRC_SCAN_BARCODE_CHECK1]", sqlConn);
                         cmd1.CommandType = CommandType.StoredProcedure;
                         cmd1.Parameters.AddWithValue("@P_DCSERIES", DocNo[0]);
                         cmd1.Parameters.AddWithValue("@P_DC_NUMBER", DocNo[1]);
                         cmd1.Parameters.AddWithValue("@P_CUSTOMER", Model.CardName);
                         cmd1.Parameters.AddWithValue("@P_ITEMCODE", Model.ItemCode.Trim());
-                        cmd1.Parameters.AddWithValue("@P_BARCODE", Model.Barcode.Trim());
+                        //cmd1.Parameters.AddWithValue("@P_BARCODE", Model.Barcode.Trim());
                         cmd1.Parameters.AddWithValue("@P_QTY",Convert.ToDecimal(s));
                         cmd1.Parameters.AddWithValue("@Type", "DC");
-                        cmd1.Parameters.AddWithValue("@DocDate", Model.DocDate);
+                        cmd1.Parameters.AddWithValue("@DocDate", Convert.ToDateTime(Model.DocDate));
                         cmd1.Parameters.AddWithValue("@SeriesName", DocNo[0].Trim());
                         cmd1.Parameters.AddWithValue("@DocNum", DocNo[1].Trim());
                         cmd1.Parameters.AddWithValue("@CardName", Model.CardName.Trim());
                         cmd1.Parameters.AddWithValue("@ItemCode", Model.ItemCode.Trim());
                         cmd1.Parameters.AddWithValue("@Dscription", Model.Dscription.Trim());
                         cmd1.Parameters.AddWithValue("@QTY", Convert.ToInt32(Convert.ToDecimal(Model.QTY)));
-                        cmd1.Parameters.AddWithValue("@Barcode", Model.Barcode.Trim());
+                        //cmd1.Parameters.AddWithValue("@Barcode", Model.Barcode.Trim());
                         cmd1.Parameters.AddWithValue("@Date", DateTime.Now.ToString("yyyy-MM-dd"));
                         cmd1.Parameters.AddWithValue("@Time", DateTime.Now.ToString("HH:mm:ss"));
+
+                        cmd1.Parameters.AddWithValue("@SKUCode", BarCodeSeries[0].Trim());
+                        cmd1.Parameters.AddWithValue("@Batch", BarCodeSeries[1].Trim());
+                        cmd1.Parameters.AddWithValue("@BoxNum", BarCodeSeries[4].Trim());
+                        cmd1.Parameters.AddWithValue("@MFGDate", BarCodeSeries[2]);
+                        cmd1.Parameters.AddWithValue("@UseByDate", BarCodeSeries[3]);
                         cmd1.Parameters.Add("@P_MESSAGE", SqlDbType.VarChar, 300);
                         cmd1.Parameters["@P_MESSAGE"].Direction = ParameterDirection.Output;
                         cmd1.ExecuteNonQuery();
@@ -442,6 +563,7 @@ namespace ICICI_BANK_INTERFACE.Services
                     sqlConn.Open();
                     sqlCmd.CommandType = CommandType.StoredProcedure;
                     sqlCmd.ExecuteNonQuery();
+                        
                 }
             } 
         }

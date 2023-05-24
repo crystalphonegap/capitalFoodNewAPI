@@ -22,7 +22,7 @@ using System.Text.RegularExpressions;
 
 namespace ICICI_BANK_INTERFACE.Controllers
 {
-    //[Authorize]
+    //[Authorize(Policy = "QRCodePolicy")]
     [ApiController]
     [Route("[controller]")]
     public class HomeController : ControllerBase
@@ -102,7 +102,7 @@ namespace ICICI_BANK_INTERFACE.Controllers
 
         [HttpPost("GetPartyList")]
         public IActionResult GetPartyList(DateFilterModel model)
-        {
+       {
             try
             {
                 return Ok(_IHomeService.GetPartyList(model));
@@ -114,7 +114,7 @@ namespace ICICI_BANK_INTERFACE.Controllers
         }
 
 
-
+        
         [HttpPost("GetItemList")]
         public IActionResult GetItemList(ItemListFilter model)
         {
@@ -163,6 +163,19 @@ namespace ICICI_BANK_INTERFACE.Controllers
             }
         }
 
+
+        [HttpPost("Register")]
+        public IActionResult Register(RegisterUserModel registerUser)
+        {
+            try
+            {
+                return Ok(_IHomeService.Register(registerUser));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
 
         [HttpPost("Login")]
         public IActionResult Login(UserMasterModel userMaster)
